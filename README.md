@@ -215,9 +215,9 @@ Visualize Result
 
 ## Author
 
-Kaushal Reddy
+Kaushal Jammula
 
-AI & Autonomous Systems Engineer
+Graduate | Former Vice President @Aprameya | Entrepreneur | Focused - Automotive Systems Specialist | Space Tech Enthusiast | Researcher | Emerging Tech Innovator| Engineering Beyond Limits
 
 GitHub: https://github.com/Kaushal1525
 ````
